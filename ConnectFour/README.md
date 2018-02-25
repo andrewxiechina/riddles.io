@@ -7,9 +7,14 @@ The field (board) has seven columns and six rows. Two players play by alternatel
 Baseline. Template offered by platform. Process settings info and offer a random move.
 
  
- ### Attempt 2:
- Baseline. Clean all uncessary code. Random move.
+### Attempt 2:
+Baseline. Clean all uncessary code. Random move.
  
+ 
+### Perfect Solution
+http://blog.gamesolver.org/solving-connect-four/01-introduction/
+
+
  ## Other Ideas
  
  ### Q-Learning
