@@ -9,3 +9,26 @@ Baseline. Template offered by platform. Process settings info and offer a random
  
  ### Attempt 2:
  Baseline. Clean all uncessary code. Random move.
+ 
+ ## Other Ideas
+ 
+ ### Q-Learning
+ Do q learning offline and upload the final result (q-table)
+ 
+ ### Some Simple Rules
+ 1. If opponent is close to 4 stop him
+ 2. Invest in one column
+ 3. When the investment in (2) is stopped by opponent, change column
+ 4. When you have 3, add a 4
+
+### CNN
+Some matrix with certain weights to infer move to play.
+
+### MCST
+Tree search to calculate move
+
+### MCST + CNN
+Value network to reduce amount of search
+
+### Mixed 
+Table when the match is starting, MCST when the number of options are reduced.
