@@ -10,6 +10,8 @@ Baseline. Template offered by platform. Process settings info and offer a random
 ### Attempt 2:
 Baseline. Clean all uncessary code. Random move.
  
+### Update:
+The current solver.cpp takes around 1 minute to fully evaluate a middle game position. but it solves quickly the end game position.
  
 ### Perfect Solution
 http://blog.gamesolver.org/solving-connect-four/01-introduction/
